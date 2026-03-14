@@ -1,0 +1,44 @@
+--- Page 1 (angle=0, conf=100) ---
+PELAPORAN SPT PPh 21 Dengan Efilling Dokumentasi Tax Departement 1 Mar 2025
+
+--- Page 2 (angle=0, conf=100) ---
+https://djponline.pajak.go.id Kunjungi Laman Kunjungi Google Dengan Mengetik “DJPONLINE” Atau Input NPWP dan Kata sandi maka akan arahkan ke menu “ Verifikasi ” pilih jenis Verifikasi yang di minta, bisa melalui, email dan No hp yang terdaftar.
+
+--- Page 3 (angle=0, conf=100) ---
+Setelah melakukan Langkah verifikasi, maka akan di arahkan ke dashboard utama tampilan djp online, pastikan tertera nama masing-masing, kemudian pada menu bar , arahkan ke menu “ LAPOR ”
+
+--- Page 4 (angle=0, conf=100) ---
+Setelah itu pastikan anda telah di menu “ Pelaporan ”, kemudian arahkan Kursor anda pada Menu “ Efilling ”
+
+--- Page 5 (angle=0, conf=100) ---
+Setelah anda memilih Menu Efilling, maka anda akan di arahkan ke Menu SPT , Ada beberapa Tab , pilih pada tab “ Buat SPT ” Kemudian ikuti petunjuk di gambar selanjutnya.
+
+--- Page 6 (angle=0, conf=100) ---
+Isi Sesuai dengan data masing masing WP, Jika sudah tepat, maka pada pilihan formulir , pilih “ Dengan Bentukan Formulir ” , Kemudian Klik “ SPT 1770 S Dengan Formulir ”
+
+--- Page 7 (angle=0, conf=100) ---
+Isi Sesuai dengan data masing masing WP, dari “ Penghasilan PPh final sampai daftar susunan Anggota Keluarga ” Kemudian klik “ Selanjutnya ”
+
+--- Page 8 (angle=0, conf=100) ---
+Isi Sesuai dengan data masing masing WP, dari “ Penghasilan dalam negri sampai penghasilan non pajak ” Kemudian pada “ BAGIAN C : DAFTAR PEMOTONG xxx , Isi dengan bukti potong yang telah di terbitkan oleh Perusahaan masing masing dengan cara klik “ Tambah ”
+
+--- Page 9 (angle=0, conf=100) ---
+1. Isi Jenis Pajak “ PPh 21 ”. Kemudian Buka Bukti potong Masing masing Karyawan, 2. Pada bagian NPWP/NIK/xx Masukan NITKU/NPWP YANMAR DIESEL INDONESIA “0010017622055000000004” Tekan “ TAB” , maka nama pemotong akan otomatis terisi. 3. Isi No Bukti Potong , dan tanggal bukti potong , serta jumlah pph yang di potong * Notes * pada pph yang di potong masukan pada point *21* (PPh PASAL 21 TERUTANG (18-19-20)) pada Lembar Bukti Potong
+
+--- Page 10 (angle=0, conf=100) ---
+No Bupot Pilih Salah 1 Tanggal Bupot Ada Di bagian bawah Lembar Bukti Potong
+
+--- Page 11 (angle=0, conf=100) ---
+Pada Point ini, buka lembar bukti potong dan masukan angka neto di “ No 13 JUMLAH PENGHASILAN NETO (8-12) ”
+
+--- Page 12 (angle=0, conf=100) ---
+Jika semua sudah di isi maka akan terlihat hasil dari PPh kurang / Lebih bayar. Jika bernilai “( - )” maka itu lebih bayar , dan nilai “(+)” Maka kurang bayar atau keterangan “ NIHIL ” , jika sudah di pastikan jangan lupa untuk mencek list pernyataan dan selanjutnya
+
+--- Page 13 (angle=0, conf=100) ---
+Klik ambil Kode verifikasi “ Disini ” kemudian tentukan bagaimana cara penerimaan Kode , bisa melalui e-mail, atau Sms, jika sudah menerima kode isi kan pada kolom “ Masukan Kode Verifikasi ” dan kemudian “ Kirim SPT” dan pelaporan SPT pph 21 sudah selesai
+
+--- Page 14 (angle=0, conf=100) ---
+Kemudian anda akan mendapatkan BPE (Bukti Penerimaan Elektronik) dan ini bukti bahwa SPT telah sukses terlapor, Jika BPE tidak terkirim di email , BPE dapat di download melalui “ Arsip SPT -> Aksi dan klik Tombol Paling Kanan”
+
+--- Page 15 (angle=0, conf=100) ---
+
